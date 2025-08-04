@@ -83,9 +83,6 @@ Presentation/
 
 Prepared by: *Gangeshwar Lohar*
 
-For academic submission and demonstration of conceptual understanding in mathematical foundations for engineering and data science.
-
 ---
 ```
 
-Let me know if you'd like me to generate the `.pptx` files or Jupyter notebook (`Numerical_Integration_Numpy.ipynb`) as well.
