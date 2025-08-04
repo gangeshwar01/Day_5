@@ -14,9 +14,9 @@ This project compares various implementations (pandas, NumPy, and Numba) for eff
 
 | Rows      | Pandas Time (s) | NumPy Time (s) | Numba Time (s) |
 |-----------|------------------|----------------|----------------|
-| 10,000    | x.xxx            | x.xxx          | x.xxx          |
-| 100,000   | x.xxx            | x.xxx          | x.xxx          |
-| 1,000,000 | x.xxx            | x.xxx          | x.xxx          |
+| 10,000    | 0.0073           | 0.0371         | 1.0947         |
+| 100,000   | 0.033            | 0.5187         | 0.0376         |
+| 1,000,000 | 0.3037           | 6.1516         | 0.2206         |
 
 > (Actual times filled by `benchmark_results.csv`)
 
