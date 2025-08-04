@@ -1,4 +1,4 @@
-Here's a `README.md` tailored for your **Mathematics Presentations** assignment:
+**Mathematics Presentations**
 
 ---
 
