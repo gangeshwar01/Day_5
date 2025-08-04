@@ -1,3 +1,0 @@
-# example_text.txt
-
-This is a placeholder for example_text.txt in Task2.

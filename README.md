@@ -24,7 +24,7 @@ We recommend using a virtual environment and Jupyter Lab or VS Code for notebook
 
 ```bash
 # Create a virtual environment
-python -m venv venv
+python -3.10 -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 # Install core packages
