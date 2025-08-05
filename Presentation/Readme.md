@@ -83,7 +83,10 @@ Presentation/
 
 Prepared by: *Gangeshwar Lohar*
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ceb9ff5f2f64a51c3ba40149c3d30f63cef0ab68
 ---
 ```
 
